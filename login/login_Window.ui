@@ -32,7 +32,7 @@
    <string>Окно регистрации/Входа</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">
+   <string notr="true">color: rgb(255, 255, 255);
 background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(108, 73, 0, 255), stop:1 rgba(52, 0, 50, 255));</string>
   </property>
   <widget class="QWidget" name="centralwidget">
